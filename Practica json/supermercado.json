@@ -1,0 +1,96 @@
+{
+    "supermercado": [
+        {
+            "nombre": "mercadona",
+            "direccion": "calle luna",
+            "horario apertura": "10:00h",
+            "horario cierre": "22:00h",
+            "productos": [
+                {
+                    "nombre": "Atún",
+                    "descripcion": "Atún atlántico",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioOferta": 3.00,
+                    "unidad de medida": "kg",
+                    "fechaOferta": "22/03/2023",
+                    "fechaFinOferta": "25/03/2023",
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Pipas",
+                    "descripcion": "Pipas de girasol",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioOferta": 1.00,
+                    "unidad de medida": "gr",
+                    "fechaOferta": "23/03/2023",
+                    "fechaFinOferta": "26/03/2023",
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "carrefour",
+            "direccion": "calle sol",
+            "horario apertura": "10:00h",
+            "horario cierre": "22:00h",
+            "productos": [
+                {
+                    "nombre": "Filetes de cerdo",
+                    "descripcion": "Filetes de cerdo de extermadura",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioOferta": 5.00,
+                    "unidad de medida": "kg",
+                    "fechaOferta": "22/03/2023",
+                    "fechaFinOferta": "25/03/2023",
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Lechuga",
+                    "descripcion": "Lechuga iceberg",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioOferta": 0.79,
+                    "unidad de medida": "kg",
+                    "fechaOferta": "23/03/2023",
+                    "fechaFinOferta": "26/03/2023",
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "nombre": "ahorramás",
+            "direccion": "calle saturno",
+            "horario apertura": "10:00h",
+            "horario cierre": "22:00h",
+            "productos": [
+                {
+                    "nombre": "Nueces",
+                    "descripcion": "Nueces de california",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioOferta": 3.00,
+                    "unidad de medida": "kg",
+                    "fechaOferta": "22/03/2023",
+                    "fechaFinOferta": "25/03/2023",
+                    "adquirido": false
+                },
+                {
+                    "nombre": "Cacao",
+                    "descripcion": "Cacao en polvo",
+                    "origen": "España",
+                    "perecedero": true,
+                    "precioOferta": 1.10,
+                    "unidad de medida": "kg",
+                    "fechaOferta": "23/03/2023",
+                    "fechaFinOferta": "26/03/2023",
+                    "adquirido": true
+                }
+            ]
+        }
+
+
+    ]
+}

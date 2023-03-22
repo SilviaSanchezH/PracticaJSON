@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado>
+    <nombre>mercadona</nombre>
+    <direccion>calle sol</direccion>
+    <horarioApertura>10:00h</horarioApertura>
+    <horarioCierre>22:00h</horarioCierre>
+    <producto>
+        <nombre>Atún</nombre>
+        <descripcion>Atún atlántico</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <preciooferta>3.00</preciooferta>
+        <unidadMedida>kg</unidadMedida>
+        <fechaOferta>22/03/2023</fechaOferta>
+        <fechaFinOferta>25/03/2023</fechaFinOferta>
+        <adquirido>true</adquirido>
+    </producto>
+     <producto>     
+        <nombre>Atún</nombre>
+        <descripcion>Atún atlántico</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <preciooferta>3.00</preciooferta>
+        <unidadMedida>kg</unidadMedida>
+        <fechaOferta>22/03/2023</fechaOferta>
+        <fechaFinOferta>25/03/2023</fechaFinOferta>
+        <adquirido>true</adquirido>
+    </producto>
+</supermercado>
